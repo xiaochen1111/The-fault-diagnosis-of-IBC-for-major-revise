@@ -1,0 +1,9 @@
+#include "__cf_B_fault_detection_idenfication.h"
+#ifndef RTW_HEADER_B_fault_detection_idenfication_acc_types_h_
+#define RTW_HEADER_B_fault_detection_idenfication_acc_types_h_
+#include "rtwtypes.h"
+#include "multiword_types.h"
+typedef struct P_SampleIL1_B_fault_detection_idenfication_T_
+P_SampleIL1_B_fault_detection_idenfication_T ; typedef struct
+P_B_fault_detection_idenfication_T_ P_B_fault_detection_idenfication_T ;
+#endif

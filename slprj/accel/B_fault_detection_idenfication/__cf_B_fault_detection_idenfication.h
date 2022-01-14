@@ -1,0 +1,3 @@
+#ifndef CF_B_fault_detection_idenfication_H__
+#define CF_B_fault_detection_idenfication_H__
+#endif

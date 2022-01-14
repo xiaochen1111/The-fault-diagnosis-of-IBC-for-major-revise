@@ -1,0 +1,3 @@
+#ifndef CF_C_fault_detection_under_varing_load_H__
+#define CF_C_fault_detection_under_varing_load_H__
+#endif

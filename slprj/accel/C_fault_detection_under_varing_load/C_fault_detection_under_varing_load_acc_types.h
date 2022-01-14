@@ -1,0 +1,10 @@
+#include "__cf_C_fault_detection_under_varing_load.h"
+#ifndef RTW_HEADER_C_fault_detection_under_varing_load_acc_types_h_
+#define RTW_HEADER_C_fault_detection_under_varing_load_acc_types_h_
+#include "rtwtypes.h"
+#include "multiword_types.h"
+typedef struct P_SampleIL1_C_fault_detection_under_varing_load_T_
+P_SampleIL1_C_fault_detection_under_varing_load_T ; typedef struct
+P_C_fault_detection_under_varing_load_T_
+P_C_fault_detection_under_varing_load_T ;
+#endif

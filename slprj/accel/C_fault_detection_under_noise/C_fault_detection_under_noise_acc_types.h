@@ -1,0 +1,9 @@
+#include "__cf_C_fault_detection_under_noise.h"
+#ifndef RTW_HEADER_C_fault_detection_under_noise_acc_types_h_
+#define RTW_HEADER_C_fault_detection_under_noise_acc_types_h_
+#include "rtwtypes.h"
+#include "multiword_types.h"
+typedef struct P_SampleIL1_C_fault_detection_under_noise_T_
+P_SampleIL1_C_fault_detection_under_noise_T ; typedef struct
+P_C_fault_detection_under_noise_T_ P_C_fault_detection_under_noise_T ;
+#endif
