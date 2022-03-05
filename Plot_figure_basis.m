@@ -44,15 +44,16 @@ legend('I_{L1}','I_{L2}','I_{L3}')
 ylabel('Inductor Current(A)','FontSize',15,'LineWidth',12)  
 Picture_LCF;
 %% Fault Indicator
+color = '';
 PPP = 1;
-plt = plot(T,II1);
+plt = plot(T,y1);
 Picture_LCF;
 hold on
-plt = plot(T,II2);
+plt = plot(T,y2);
 Picture_LCF;
 hold on
-plt = plot(T,II3);
-ylabel('Fault Indicator','FontSize',15,'LineWidth',12) 
+plt = plot(T,y3);
+ylabel('Indicator','FontSize',15,'LineWidth',12) 
 legend('CI_{P1}','CI_{P2}','CI_{P3}');
 Picture_LCF;
 set(gca,'YLim',[0.8,3.7])
